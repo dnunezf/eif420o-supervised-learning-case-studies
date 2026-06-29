@@ -95,16 +95,6 @@ The course brief specifies the following model implementations for regression wo
 - Students must be able to demonstrate authorship of their work; otherwise, the submission is forfeited.
 - At least **50% of the bibliography** must come from UNA databases, projects, journals, or other peer-reviewed academic forums.
 
-## Evaluation
-
-| Assessment Area | Weight |
-| --- | ---: |
-| Structure and Content - Definitions and concepts | 20% |
-| Presentation - Algorithms and models analysis in LaTeX | 80% |
-| **Total** | **100%** |
-
-A conceptual map is suggested for the definitions and concepts component.
-
 ## Delivery Date
 
 **April 30, 2026**
